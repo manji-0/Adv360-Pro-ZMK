@@ -36,11 +36,11 @@
 
         default_layer {
             bindings = <
-&kp INSERT     &kp N1     &kp N2            &kp N3     &kp N4            &kp N5         &tog 1                                                                                       &mo 3                  &kp N6  &kp N7            &kp N8             &kp N9     &kp N0         &bl BL_TOG
-&kp HOME       &kp Q      &kp L             &kp U      &kp COMMA         &kp PERIOD     &none                                                                                        &none                  &kp F   &kp W             &kp R              &kp Y      &kp P          &kp BACKSLASH
-&kp END        &kp E      &kp I             &kp A      &kp O             &kp MINUS      &kp LEFT_SHIFT        &kp TAB        &kp LEFT_COMMAND      &kp LGUI           &kp RIGHT_ALT  &kp RIGHT_SHIFT        &kp K   &kp T             &kp N              &kp S      &kp H          &kp RIGHT_BRACKET
-&kp PAGE_UP    &kp Z      &kp X             &kp C      &kp V             &kp SEMICOLON                                       &kp LEFT_CONTROL      &kp RIGHT_CONTROL                                        &kp G   &kp D             &kp M              &kp J      &kp B          &kp SEMICOLON
-&kp PAGE_DOWN  &kp GRAVE  &kp SINGLE_QUOTE  &kp GRAVE  &kp SINGLE_QUOTE                 &mt LEFT_SHIFT SPACE  &kp BACKSPACE  &kp DELETE            &lt 2 DELETE       &kp ENTER      &mt RIGHT_SHIFT SPACE          &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp SLASH  &kp BACKSLASH  &kp PAGE_DOWN
+&kp INSERT     &kp N1     &kp N2     &kp N3             &kp N4            &kp N5         &tog 1                                                                                       &mo 3                  &kp N6  &kp N7            &kp N8             &kp N9     &kp N0         &bl BL_TOG
+&kp HOME       &kp Q      &kp L      &kp U              &kp COMMA         &kp PERIOD     &none                                                                                        &none                  &kp F   &kp W             &kp R              &kp Y      &kp P          &kp BACKSLASH
+&kp END        &kp E      &kp I      &kp A              &kp O             &kp MINUS      &kp LEFT_SHIFT        &kp TAB        &kp LEFT_COMMAND      &kp LGUI           &kp RIGHT_ALT  &kp RIGHT_SHIFT        &kp K   &kp T             &kp N              &kp S      &kp H          &kp RIGHT_BRACKET
+&kp PAGE_UP    &kp Z      &kp X      &kp C              &kp V             &kp SEMICOLON                                       &kp LEFT_CONTROL      &kp RIGHT_CONTROL                                        &kp G   &kp D             &kp M              &kp J      &kp B          &kp SEMICOLON
+&kp PAGE_DOWN  &kp GRAVE  &kp TILDE  &kp DOUBLE_QUOTES  &kp SINGLE_QUOTE                 &mt LEFT_SHIFT SPACE  &kp BACKSPACE  &kp DELETE            &lt 2 DELETE       &kp ENTER      &mt RIGHT_SHIFT SPACE          &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp SLASH  &kp BACKSLASH  &kp PAGE_DOWN
             >;
         };
 
